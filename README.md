@@ -1,4 +1,4 @@
-![image](https://github.com/Srikaavyaathamizh/exno1/assets/144870938/305b4138-6a3e-4d10-9280-f03e770492ef)# Exno:1
+# Exno:1
 Data Cleaning Process
 
 # AIM
@@ -45,6 +45,8 @@ df.info()
 ```
 df.describe()
 ```
+
+![WhatsApp Image 2024-03-04 at 10 53 18_1be13ee0](https://github.com/Srikaavyaathamizh/exno1/assets/144870938/96730e51-b915-4a40-8144-e3c20f69c698)
 
 ```
 df.shape
@@ -141,4 +143,4 @@ df.shape
 
 
 # Result
-          <<include your Result here>>
+          The data clearning has beeen done successfully.
